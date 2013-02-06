@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="SF by Dawn" version="1.0" />
+    <map src="race-sfbydawn.map" />
+    <settings>
+        <setting name="#respawn" value="timelimit" />
+        <setting name="#time" value="4:30" />
+        <setting name="#weather" value="14" />
+    </settings>
+</meta>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Green Hell" author="AcidbRain" version="1.2" description="A rough, slippery and bumpy circuit, where you must drive an Infernus around the hills of Fern Ridge and Montgomery. Be careful with the barrels sprinkled around strategic points in the map." />
+    <map src="race-greenhell.map" />
+    <settings>
+        <setting name="#time" value="14:0" />
+        <setting name="#weather" value="20" />
+        <setting name="#respawn" value="timelimit" />
+        <setting name="#sky_gradient" value="20,18,19,175,224,37" />
+    </settings>
+</meta>

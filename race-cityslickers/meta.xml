@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="City Slickers" author="AcidbRain" version="1.2" description="Custom city circuit with direction-switching traffic." />
+    <map src="race-cityslickers.map" />
+    <settings>
+        <setting name="#time" value="20:0" />
+        <setting name="#weather" value="5" />
+        <setting name="#waveheight" value="0.500" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

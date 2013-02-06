@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Aridzonia Pro Racing" author="AcidbRain" version="1.1.1" description="Prove your racing skills on this track based on the USA 1991 F1 Grand Prix layout." />
+    <map src="race-aridzoniaproracing.map" />
+    <settings>
+        <setting name="#time" value="17:0" />
+        <setting name="#waveheight" value="0.125" />
+        <setting name="#weather" value="18" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

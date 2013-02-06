@@ -1,0 +1,13 @@
+﻿<meta>
+	<info gamemodes="race" type="map" name="Sewer Circuit" author="AcidbRain" version="1.1" />
+	<file src="vgssland01.txd" />
+	<script src="objectremover.lua" type="client" />
+	<script src="textures.lua" type="client" />
+	<map src="race-sewercircuit.map" />
+	<settings>
+		<setting name="#ghostmode" value="false" />
+		<setting name="#respawn" value="timelimit" />
+		<setting name="#time" value="0:0" />
+		<setting name="#weather" value="13" />
+	</settings>
+</meta>

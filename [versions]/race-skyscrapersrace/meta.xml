@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Skyscrapers Race" author="PhiLLip" version="1.2" description="another midair race with picadors" />
+    <map src="race-skyscrapersrace.map" />
+    <script src="speedboost.lua" type="server" />
+    <script src="playsound.lua" type="client" />
+    <file src="turbo.ogg" />
+    <settings>
+        <setting name="#time" value="4:0" />
+        <setting name="#weather" value="1" />
+        <setting name="#waveheight" value="2" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

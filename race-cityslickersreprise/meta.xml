@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="City Slickers Reprise" author="AcidbRain" version="1.2.2" />
+    <map src="race-cityslickersreprise.map" />
+    <settings>
+        <setting name="#time" value="13:0" />
+        <setting name="#weather" value="5" />
+        <setting name="#waveheight" value="0.250" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

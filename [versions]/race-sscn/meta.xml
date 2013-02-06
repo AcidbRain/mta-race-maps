@@ -1,0 +1,10 @@
+﻿<meta>
+	<script src="objectremover.lua" type="client" />
+	<info gamemodes="race" type="map" name="SSCN" author="Marcuzzo" version="1.0.0"></info>
+	<map src="race-sscn.map"></map>
+	<settings>
+		<setting name="#respawn" value="timelimit" />
+		<setting name="#time" value="1:45" />
+		<setting name="#weather" value="13" />
+	</settings>
+</meta>

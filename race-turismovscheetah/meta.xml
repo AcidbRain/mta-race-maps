@@ -1,0 +1,11 @@
+﻿<meta>
+	<info gamemodes="race" type="map" name="Turismo vs Cheetah" author="AcidbRain &amp; HaRCoR7" version="1.2" />
+	<map src="race-turismovscheetah.map" />
+	<script src="vehicle-switch.lua" type="server" />
+	<settings>
+		<setting name="#waveheight" value="0.5" />
+		<setting name="#respawn" value="timelimit" />
+		<setting name="#time" value="2:50" />
+		<setting name="#weather" value="5" />
+	</settings>
+</meta>

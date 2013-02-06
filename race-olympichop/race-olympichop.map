@@ -1,0 +1,23 @@
+﻿<map xmlns:edf="urn:mtasa:edf" edf:definitions="race,editor_main">
+	<spawnpoint vehicle="411" posX="-2264.887695" posY="548.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2257.401367" posY="548.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2261.151367" posY="548.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2264.887695" posY="560.182617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2257.387695" posY="560.182617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2261.129883" posY="560.182617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2264.887695" posY="537.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2257.331055" posY="537.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2261.194336" posY="537.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2268.452148" posY="548.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2253.651367" posY="548.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2268.352539" posY="537.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2253.588867" posY="537.932617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2268.40332" posY="560.182617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2253.723633" posY="560.182617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2253.588867" posY="527.432617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2261.05957" posY="527.432617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2268.116211" posY="527.432617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2257.366211" posY="527.432617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<spawnpoint vehicle="411" posX="-2264.717773" posY="527.432617" posZ="35.145836" rotX="0" rotY="0" rotZ="0" />
+	<checkpoint id="checkpoint-1" type="ring" color="#FFFFFFC8" size="26" posX="-2299.19165" posY="2823.944336" posZ="185" />
+</map>

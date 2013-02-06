@@ -1,0 +1,9 @@
+﻿<meta>
+	<info gamemodes="race" type="map" name="Canyon Cross 6" author="Dockinoke" version="2.0" description="Dedicated to msd. Custom circuit with Cheetah" />
+	<map src="race-canyonrace6.map" />
+	<settings>
+		<setting name="#respawn" value="timelimit" />
+		<setting name="#time" value="15:30" />
+		<setting name="#weather" value="1" />
+	</settings>
+</meta>

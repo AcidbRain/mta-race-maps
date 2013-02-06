@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Close Racing Platinum" author="MSD, AcidbRain" version="1.2" />
+    <map src="race-closeracingplatinum.map" />
+    <settings>
+        <setting name="#time" value="19:30" />
+        <setting name="#weather" value="18" />
+        <setting name="#gravity" value="0.008" />
+        <setting name="#waveheight" value="0.25" />
+        <setting name="#respawn" value="timelimit" />
+		<setting name="#nobuy" value="gm" />
+    </settings>
+</meta>

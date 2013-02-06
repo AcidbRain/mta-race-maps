@@ -1,0 +1,12 @@
+﻿<meta>
+	<script src="hunt_s.lua" type="server" />
+	<script src="hunt_cl.lua" type="client" />
+	<info gamemodes="race" type="map" name="Tag Soup" author="AcidbRain" version="2.3" description="Road to Nowhere..." />
+	<map src="race-tagsoup.map" />
+	<settings>
+		<setting name="#waveheight" value="0.25" />
+		<setting name="#respawn" value="timelimit" />
+		<setting name="#time" value="8:42" />
+		<setting name="#weather" value="13" />
+	</settings>
+</meta>

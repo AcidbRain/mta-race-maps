@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Rio Seco" author="AcidbRain" version="1.2" description="Loosely based on Yoyo-2" />
+    <map src="race-rioseco.map" />
+    <settings>
+        <setting name="#waterlevel" value="-50" />
+        <setting name="#respawn" value="timelimit" />
+        <setting name="#sky_gradient" value="219,197,160,188,166,133" />
+        <setting name="#time" value="7:0" />
+        <setting name="#weather" value="17" />
+		<setting name="#ghostmode" value="true" />
+    </settings>
+</meta>

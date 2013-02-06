@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Truck Rally" author="SAaSSbAG" version="1.2" description="truck rally in airstrip fixing file for reupload" />
+    <map src="race-truckrally.map" />
+    <include resource="trafficsigns-us" />
+    <settings>
+        <setting name="#time" value="0:0" />
+        <setting name="#waveheight" value="0.100" />
+        <setting name="#weather" value="6" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

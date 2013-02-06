@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Short Hot Mix" author="AcidbRain" version="2.0.4" description="Road circuit, speed jumps, offroading, free-fall, and skill driving all in 2 minutes." />
+    <map src="race-shorthotmix.map" />
+    <settings>
+        <setting name="#time" value="18:20" />
+        <setting name="#weather" value="14" />
+        <setting name="#waveheight" value="1" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<meta>
+    <info gamemodes="race" type="map" name="Monte Inferno" author="AcidbRain, Dockinoke, Kninum" version="1.1.2" />
+    <map src="race-monteinferno.map" />
+    <settings>
+        <setting name="#time" value="6:0" />
+        <setting name="#waveheight" value="0.5" />
+        <setting name="#weather" value="2" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+    <script src="thundervalley-server.lua" type="server" />
+    <script src="thundervalley-client.lua" type="client" />
+    <info gamemodes="race" type="map" name="Thunder Valley" author="mrselfdestruct" version="2.1.3" description="custom raceway" />
+    <map src="race-thundervalley.map" />
+    <settings>
+        <setting name="#time" value="16:0" />
+        <setting name="#weather" value="1" />
+        <setting name="#respawn" value="timelimit" />
+    </settings>
+</meta>
